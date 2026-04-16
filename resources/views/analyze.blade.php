@@ -6,7 +6,7 @@
 
     <!-- Title -->
     <div class="text-center mb-8">
-        <h1 class="text-3xl font-bold text-white mb-2">🛡️ Cyberbullying Detector</h1>
+        <h1 class="text-3xl font-bold text-white mb-2">Cyberbullying Detector</h1>
         <p class="text-gray-400">Paste any text below to analyze it for cyberbullying content</p>
     </div>
 
@@ -49,7 +49,7 @@
     @endphp
 
     <div class="mt-6 bg-gray-900 rounded-2xl p-6 border border-gray-800">
-        <h2 class="text-lg font-bold mb-4 text-white">📊 Analysis Result</h2>
+        <h2 class="text-lg font-bold mb-4 text-white"> Analysis Result</h2>
 
         <!-- Label Badge -->
         <div class="flex items-center gap-3 mb-4">
